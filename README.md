@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning data science and exploring various ways in which data can be used to tell a story
+A data scientist striving to develop various insights though data to provide solutions.
 
 
 ## 🌐 Socials:
